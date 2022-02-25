@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Practica1_ACYE2/static/css/main.e6c13ad2.css",
+    "main.js": "/Practica1_ACYE2/static/js/main.82b83b9f.js",
+    "static/js/787.4a8d7b62.chunk.js": "/Practica1_ACYE2/static/js/787.4a8d7b62.chunk.js",
+    "index.html": "/Practica1_ACYE2/index.html",
+    "main.e6c13ad2.css.map": "/Practica1_ACYE2/static/css/main.e6c13ad2.css.map",
+    "main.82b83b9f.js.map": "/Practica1_ACYE2/static/js/main.82b83b9f.js.map",
+    "787.4a8d7b62.chunk.js.map": "/Practica1_ACYE2/static/js/787.4a8d7b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.82b83b9f.js"
+  ]
+}
